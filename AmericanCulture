@@ -23,7 +23,49 @@
     <div class="container">
 
       <section class="page-header">
+        <h2 class="project-name">New to Washington University? (or St. Louis)</h2>
+        <h4 class="project-tagline">We know that first semester can be difficult at school, and we understand all of the many different people and backgrounds coming to Washington University</h4>
+      <h4> So we have compiled a helpful website for any new student, and we have broke up the challenges and scenarios faced into four categories</h4>
+      <p>
       
+      </p>
+      <h2>
+        <a href = "http://noahadelstein.github.io/Questions/Intl.html" > International Students </a>
+      </h2>
+       <p>
+         
+         <ol> <li>10 Ways to quickly adapt to American culture</li>
+<li>Ways that living in America is different than home and how to prepare for it </li>
+<li>8 Things many international students do that you shouldn't</li>
+</ol>
+       </p>
+       <h2>
+        <a href = "http://noahadelstein.github.io/Questions/freshman.html" > Freshman Students </a>
+      </h2>
+       <p>
+         <ol> <li>10 Things to do freshman fall to adjust to college</li>
+<li>How to prepare for living in the dorms </li>
+<li>What to bring and what not to bring</li>
+<li>How to do well in class</li>
+</ol>
+       <h2>
+         <a href = "Transfers.html" > Transfer Students </a>
+      </h2>
+       <p>
+         <ol> <li>Places and ways to meet people quickly</li>
+<li>Activities that all experienced Wash U students do </li>
+<li>Best parts of St. Louis</li>
+<li>Ways to quickly get involved on campus</li>
+</ol>
+<h2>
+       <a href = "http://noahadelstein.github.io/Questions/allstudents.html" > All Students </a>
+      </h2>
+       <p>
+         <ol> <li>Best places to study</li>
+<li>Things not to do specific to Wash U </li>
+<li>New things to do in St. Louis</li>
+<li>Resources</li>
+</ol>
 
       </section>
 
